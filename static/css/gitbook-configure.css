@@ -1,3 +1,22 @@
+/* 去除gitbook链接 */
 .gitbook-link {
   display: none !important;
 }
+/* .book-anchor {
+  display: none !important;
+} */
+
+/* 修改右侧页面大小 */
+/* .page-inner {
+  max-width: 75%;
+  padding: 0px 15px 40px;
+} */
+
+#anchor-navigation-ex-navbar {
+  top: 108px;
+}
+
+/* 修改a标签样式 */
+/* .summary a:active, a:hover {
+  text-decoration: none !important;
+} */

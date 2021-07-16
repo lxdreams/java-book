@@ -2,3 +2,10 @@
 .code-wrapper pre {
   background: #f5f5f5;
 }
+
+/* 图片属性修改 */
+.markdown-section img {
+  padding: 0px;
+  display: flex;
+  margin: 20px auto;
+}

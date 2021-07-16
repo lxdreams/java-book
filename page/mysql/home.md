@@ -8,3 +8,6 @@
 
     	只有表级锁，不支持事物，大量查询时速度更快，MyISAM中不会产生死锁，因为它总是一次性获得所需的全部锁
 
+### MySQL架构
+<img src="/static/img/mysql/frame.png" width="70%" height="70%" alt="架构图"/>
+
